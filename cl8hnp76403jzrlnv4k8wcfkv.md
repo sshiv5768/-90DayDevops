@@ -1,4 +1,4 @@
-## Day-6 Programming language for DevOps
+## Day-6 Programming languages for DevOps
 
 Ok, so now I am feeling like my learning curve is going from theoretical part to practical part. On day-6, I figured out why a programming language is needed for DevOps.
 
