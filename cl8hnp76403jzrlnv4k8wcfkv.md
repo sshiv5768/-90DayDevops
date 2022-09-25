@@ -10,7 +10,7 @@ One reason was that now let's move to another one. Suppose you and your develope
 Mostly, it is a project's demand for which language to choose for DevOps. However, most people are currently learning the GO programming language for Devops. When working on Kubernetes-related projects, Go is useful, and Python is useful when working on automation projects such as CI/CD. But that doesn't mean that you have to learn two of them. Just choose any of them.
 
 ## Why Go? 😕
-Both languages have their own use cases, so I don't want to start a comparison war. Currently, "Go" is a very popular term in the DevOps world. Go is currently trending fourth in most wanted scripting and markup languages, according to a recent [Stackoverflow Survey](https://insights.stackoverflow.com/survey/2021# most-loved-dreaded-and-wanted-language-want). 
+Both languages have their own use cases, so I don't want to start a comparison war. Currently, "Go" is a very popular term in the DevOps world. Go is currently trending fourth in most wanted scripting and markup languages, according to a recent [Stackoverflow Survey](https://bit.ly/3flv3a0)
 
  ### Few imp features of GO 🪶
 - It is easy and well-written.
