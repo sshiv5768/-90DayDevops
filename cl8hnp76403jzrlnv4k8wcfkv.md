@@ -14,8 +14,8 @@ Both languages have their own use cases, so I don't want to start a comparison w
 
  ### Few imp features of GO 🪶
 - It is easy and well-written.
-- Full of features like memory allocation, garbage collection, concurrency.
-- It adopts best features for functional programming.
+- Useful attributes like memory allocation, garbage collection, concurrency.
+- It adopts best characteristics of functional programming.
 - Error handling.
 - Large community.
 
