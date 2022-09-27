@@ -1,6 +1,6 @@
 ## Day-7 Let's "Go"
 
-We are going to start our programming journey with **Go** from today. But first, let me clarify something: I will not describe the entire installation process of **Go**.Because it will make this blog very lengthy and, second, I am using Linux and there might be Windows and MacOs users reading this blog, so if I describe the Linux one, I also have to mention other OS processes and it will make this blog very lengthy.
+We are going to start our programming journey with **Go** from today. But first, let me clarify something: I will not describe the entire installation process of **Go**.Because it will make this blog very lengthy and, second, I am using Linux and there might be Windows and MacOs users reading this blog, so if I describe the Linux one, I also have to mention other OS processes and it will make this blog longer and boring to read.
 
 But don't be sad, I will share a few resource videos of the installation process on different OSs. You will also require a code editor or IDE. I'll use Visual Studio Code ([Click here to Install](https://code.visualstudio.com/)). I chose VSCode because I've been using it for a long time, so that's the first advantage. The second advantage is that it supports a variety of plugins and tools for **Go lang**. If you don't want to install VScode on your computer, you can use its [web version](https://vscode.dev/) also.
 
