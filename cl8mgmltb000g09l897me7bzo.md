@@ -5,6 +5,8 @@ Yesterday we learned about packages and compilation of Go code in depth. Today w
 ## Variables & Constants 📥
 Variables are used to store various types of values. Assume it is like a box containing something that is only opened when something is needed from that box. Once the variable is created, you can reference that variable name everywhere in the app.
 
+
+![Untitled Diagram.drawio (1).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1664502871592/7-PlvOaK_.png align="left")
 But you can't easily create variables like ``x = 29`` like you do in **Python**. There is slight change in Golang. In Go, there are keywords defined to do specific jobs, like if you have noticed in the Hello World program, we used ``func`` before to create a function. ``func`` is a keyword defined to create a function in Go.
 
 So, **keywords** are specially defined words (or you can say reserved words) to do certain things. You can't use those keywords as your function name or variable name.
