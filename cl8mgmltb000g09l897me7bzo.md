@@ -7,7 +7,7 @@ Variables are used to store various types of values. Assume it is like a box con
 
 But you can't easily create variables like ``x = 29`` like you do in **Python**. There is slight change in Golang. In Go, there are keywords defined to do specific jobs, like if you have noticed in the Hello World program, we used ``func`` before to create a function. ``func`` is a keyword defined to create a function in Go.
 
-So, keywords are specially defined words to do certain things. You can't use those keywords as your function name or variable name.
+So, **keywords** are specially defined words (or you can say reserved words) to do certain things. You can't use those keywords as your function name or variable name.
 
 For creating a variable, we have a keyword ``var`` here. Let's create a variable:
 
