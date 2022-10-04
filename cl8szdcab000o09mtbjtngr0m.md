@@ -1,4 +1,4 @@
-## Day-13 Basic Linux Commands for DevOps - part 2
+## Day-13 Basic Linux Commands for DevOps part 2
 
 Today we are going to see more basic Linux commands that are useful in a DevOps engineer's day-to-day life.
 
