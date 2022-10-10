@@ -52,7 +52,7 @@ nano <file_name>
 - [Vim tutorial for Beginners](https://youtu.be/RZ4p-saaQkc)
 - [ Various text editors for Linux](https://youtu.be/zk6hZbWnhEs)
 
-Okay so that was it for common text editors in Linux, See tomorrow.
+Okay so that was it for common text editors in Linux, Don't forget to subscribe newsletter for daily blogs. Also do share with others in your community.
 
 
 
