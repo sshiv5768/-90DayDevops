@@ -48,7 +48,7 @@ nano <file_name>
 
 ![Screenshot from 2022-10-11 00-03-08.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665426800589/rOlCEnSKs.png align="left")
 
-## Resources & Ending Note
+## Resources & Ending Note 📑 👋
 - [Vim tutorial for Beginners](https://youtu.be/RZ4p-saaQkc)
 - [ Various text editors for Linux](https://youtu.be/zk6hZbWnhEs)
 
