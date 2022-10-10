@@ -39,6 +39,20 @@ vim <file_name>
 When type something in **vim** window it will automatically goes into insert mode and you can edit that file. If you wish to add text, you must switch to insert mode by pressing the ``I`` key. If you have added text and want to save your changes, you must press the ``escape`` key and then``: wq``.
 
 ## Nano
-The editor Nano is simple to use. It is intended for both novice and expert users. It has various options for modification.
+It is simple to use for both beginner and expert users. It has various options for modification. Unlike **vim** you also have instructions below to help.
+
+```
+nano <file_name>
+
+```
+
+![Screenshot from 2022-10-11 00-03-08.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665426800589/rOlCEnSKs.png align="left")
+
+## Resources & Ending Note
+- [Vim tutorial for Beginners](https://youtu.be/RZ4p-saaQkc)
+- [ Various text editors for Linux](https://youtu.be/zk6hZbWnhEs)
+
+Okay so that was it for common text editors in Linux, See tomorrow.
+
 
 
