@@ -1,1 +1,55 @@
-IyMgRGF5LTE3IEZpbGUgUGVybWlzc2lvbnMgaW4gTGludXgKCk9LLCBzbyB0b21vcnJvdywgd2UgY2hlY2tlZCB0aGUgTGludXggZmlsZSBzeXN0ZW0gd2hlcmUgd2UgbG9va2VkIG92ZXIgYSBmZXcgZGlyZWN0b3JpZXMgYW5kIGNvbW1hbmRzLiBUb2RheSB3ZSBhcmUgZ29pbmcgdG8gY2hlY2sgZmlsZSBwZXJtaXNzaW9ucyBhbmQgaG93IHlvdSBjYW4gbW9kaWZ5IHRoZW0gdXNpbmcgYGBjaG1vZGBgLgoKWW91IG1heSBoYXZlIG5vdGljZWQgdGhhdCBzb21ldGltZXMgeW91IHdhbnQgdG8gYWNjZXNzIG9uZSBmaWxlIGJ1dCB5b3UgY2FuJ3QuIEl0IHRocm93cyBzb21lIGVycm9ycyBsaWtlIGBgUGVybWlzc2lvbiBkZW5pZWRgYC4gVGhhdCBpcyBiZWNhdXNlIHlvdSBkb24ndCBoYXZlIGFjY2VzcyB0byB0aGF0IGZpbGUuCgojIyBGaWxlIHBlcm1pc3Npb25zIPCfl4TvuI/wn5SQCkFzIGRpc2N1c3NlZCBpbiB0aGUgcHJldmlvdXMgYmxvZywgTGludXggaXMgbWFkZSB1cCBvZiBhIGxvdCBvZiBjb25maWd1cmF0aW9uIGZpbGVzLiBNYW55IGNyaXRpY2FsIChJTVApIGZpbGVzIHJlcXVpcmUgYWRtaW5pc3RyYXRvciBwZXJtaXNzaW9ucyB0byAqKnIgKioocmVhZCksICoqdyoqICh3cml0ZSksIGFuZCAqKngqKiAoZXhlY3V0ZSkuwqAKCgohW1NjcmVlbnNob3QgZnJvbSAyMDIyLTEwLTA5IDE5LTA4LTQ3LnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NjUzMjI3NTU5NzEvOHM4bHowQ211LnBuZyBhbGlnbj0ibGVmdCIpCgpDaGVja291dCB0aGUgYWJvdmUgaW1hZ2UuIFdoZW4geW91IHR5cGUgYGxzIC1sYCBpdCB3aWxsIGdpdmUgeW91IGEgbW9yZSBkZXRhaWxlZCB2aWV3IG9mIHRoZSBsaXN0ZWQgZmlsZXMgY3VycmVudGx5IGF2YWlsYWJsZSBpbiB5b3VyIGN1cnJlbnQgZm9sZGVyLsKgCgpMZXQncyBicmVha2Rvd24gdGhhdCBvdXRwdXQuIEhlcmUgSSBoYXZlIGEgdG90YWwgb2YgMTE1Njk2LCBpdGVtcyBpbiBteSBob21lIGRpcmVjdG9yeS4gSGVyZSBpdCByZXByZXNlbnRzIHRoZSBzaXplIG9mIHRoZSBmaWxlLCB3aG8gaXMgdGhlIHVzZXIsIHdoZW4gaXQgd2FzIGNyZWF0ZWQsIGFuZCBpdHMgbmFtZS4KCkkgZG9uJ3QgaGF2ZSBtdWNoIGludGVyZXN0IGluIHRoZSBhYm92ZSBkZXRhaWxzLCBidXQgSSB3YW50IHRvIGtub3cgd2hhdCB0aG9zZSBmaXJzdCAxMCBsZXR0ZXJzKCBgLXJ3LXJ3LXItLWApPyBXaGF0IGlzIHRoZSB1c2Ugb2YgdGhhdD8KCiFbaG9yaXpvbnRhbCAoMSkucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY2NTMyNDA3MjQ5My84UGNwZm1ZbnYucG5nIGFsaWduPSJsZWZ0IikKCkFjdHVhbGx5IGl0IGlzIGRpdmlkZWQgaW4gZm91ciBwYXJ0cy4KCjEuIApgLWA6IEl0IHJlcHJlc2VudHMgZmlsZSB0eXBlLiAKICAtIGBkYCBzdGFuZHMgZm9yIGRpcmVjdG9yeS4KICAtIGBjYCBzdGFuZHMgZm9yIGNoYXJhY3Rlci4KICAtIGAtYCBzdGFuZHMgZm9yIGZpbGUuCiAgLSBgbGAgc3RhbmRzIGZvciBsaW5rLgoKMi4gCmByd3hgOiBJdCBzaG93cyAqKnVzZXIqKiBwZXJtaXNzaW9ucy4gV2hhdCBzb3J0IG9mIHBlcm1pc3Npb25zIGRvZXMgdGhlIHVzZXIgaGF2ZSBmb3IgdGhhdCBzcGVjaWZpYyBmaWxlIG9yIGZvbGRlcj8KCjMuCmByLXhgOiBJdCBzdGFuZHMgZm9yICoqZ3JvdXAqKiBwZXJtaXNzaW9ucy4gQSBncm91cCBjYW4gY29udGFpbiBtdWx0aXBsZSB1c2VycyBhbmQgY2FuIGhhdmUgZGlmZmVyZW50IHBlcm1pc3Npb25zLgoKNC4KYHIteGA6IFRoaXMgaXMgZm9yIG90aGVyIHVzZXJzIGF2YWlsYWJsZSBpbiB0aGUgc3lzdGVtLgoKIyMgQ2hhbmdpbmcgRmlsZSBQZXJtaXNzaW9ucwojIyMgQ2htb2QKU28gbm93IHlvdSBrbm93IGFib3V0IGZpbGUgcGVybWlzc2lvbnMsIG5vdyB3aGF0PyBIb3cgYWJvdXQgY2hhbmdpbmcgZmlsZSBwZXJtaXNzaW9ucz8gQnV0IGhvdz8gVGhlcmUgaXMgb25lIGNvbW1hbmQgYGBjaG1vZGBgIHlvdSBjYW4gdXNlIHRvIGNoYW5nZSBmaWxlIHBlcm1pc3Npb25zLgoKCgohW1NjcmVlbnNob3QgZnJvbSAyMDIyLTEwLTA5IDIxLTQ4LTIxLnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NjUzMzIzMTg5MjAvQ1YtNzFYREp3LnBuZyBhbGlnbj0ibGVmdCIpCgpTZWUgYWJvdmUgaW1hZ2UuIFdlIGZpcnN0IGNyZWF0ZWQgYSBgdGVzdC50eHRgIGZpbGUgYW5kIGNoZWNrZWQgaXRzIHBlcm1pc3Npb25zLiBGb3Igb3RoZXIgdXNlcnMsIGl0IHdhcyBgci0tYCBvbmx5KHJlYWRpbmcgcGVybWlzc2lvbiBvbmx5KS4gTGF0ZXIsIHdlIGdhdmUgYHdgIHBlcm1pc3Npb24gdG8gYG9gKG90aGVyKSB1c2luZyBgY2htb2RgLiBIZXJlIGArYCB1c2VkIHRvIGFkZCBhIG5ldyBwZXJtaXNzaW9uLgoKVGhlcmUgYXJlIGFsc28gbnVtZXJpYyByZXByZXNlbnRhdGlvbiBhdmFpbGFibGUgZm9yIHRoZXNlIHBlcm1pc3Npb25zLiBDaGVjayBvdXQgW3RoaXNdKGh0dHBzOi8vd3d3LmlibS5jb20vZG9jcy9lbi9haXgvNy4yP3RvcGljPW1vZGVzLW51bWVyaWMtcmVwcmVzZW50YXRpb24tYWNjZXNzKSB0byBrbm93IG1vcmUgYWJvdXQgdGhhdC4KCiMjIFJlc291cmNlcyAmIEVuZGluZyBub3RlcyDwn5Oa8J+RiwotIFtMaW51eCBGaWxlIFBlcm1pc3Npb25zXShodHRwczovL3lvdXR1LmJlL2h4TkZlTDJxWS1rKQotIFtVbmRlcnN0YW5kIExpbnV4IEZpbGUgUGVybWlzc2lvbnNdKGh0dHBzOi8vd3d3LmxpbnV4Zm91bmRhdGlvbi5vcmcvYmxvZy9ibG9nL2NsYXNzaWMtc3lzYWRtaW4tdW5kZXJzdGFuZGluZy1saW51eC1maWxlLXBlcm1pc3Npb25zKQoKVGhhdCB3YXMgaXQgZm9yIHRoZSB0b3BpYyBvZiBwZXJtaXNzaW9ucyBhbmQgKipjaG1vZCoqLiBJJ2xsIGJlIGJhY2sgd2l0aCBhIG5ldyB0b3BpYyB0b21vcnJvdy4=
+# Day-17 File Permissions in Linux
+
+OK, so tomorrow, we checked the Linux file system where we looked over a few directories and commands. Today we are going to check file permissions and how you can modify them using ``chmod``.
+
+You may have noticed that sometimes you want to access one file but you can't. It throws some errors like ``Permission denied``. That is because you don't have access to that file.
+
+## File permissions 🗄️🔐
+As discussed in the previous blog, Linux is made up of a lot of configuration files. Many critical (IMP) files require administrator permissions to **r **(read), **w** (write), and **x** (execute). 
+
+
+![Screenshot from 2022-10-09 19-08-47.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665322755971/8s8lz0Cmu.png align="left")
+
+Checkout the above image. When you type `ls -l` it will give you a more detailed view of the listed files currently available in your current folder. 
+
+Let's breakdown that output. Here I have a total of 115696, items in my home directory. Here it represents the size of the file, who is the user, when it was created, and its name.
+
+I don't have much interest in the above details, but I want to know what those first 10 letters( `-rw-rw-r--`)? What is the use of that?
+
+![horizontal (1).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665324072493/8PcpfmYnv.png align="left")
+
+Actually it is divided in four parts.
+
+1. 
+`-`: It represents file type. 
+  - `d` stands for directory.
+  - `c` stands for character.
+  - `-` stands for file.
+  - `l` stands for link.
+
+2. 
+`rwx`: It shows **user** permissions. What sort of permissions does the user have for that specific file or folder?
+
+3.
+`r-x`: It stands for **group** permissions. A group can contain multiple users and can have different permissions.
+
+4.
+`r-x`: This is for other users available in the system.
+
+## Changing File Permissions
+### Chmod
+So now you know about file permissions, now what? How about changing file permissions? But how? There is one command ``chmod`` you can use to change file permissions.
+
+
+
+![Screenshot from 2022-10-09 21-48-21.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665332318920/CV-71XDJw.png align="left")
+
+See above image. We first created a `test.txt` file and checked its permissions. For other users, it was `r--` only(reading permission only). Later, we gave `w` permission to `o`(other) using `chmod`. Here `+` used to add a new permission.
+
+There are also numeric representation available for these permissions. Check out [this](https://www.ibm.com/docs/en/aix/7.2?topic=modes-numeric-representation-access) to know more about that.
+
+## Resources & Ending notes 📚👋
+- [Linux File Permissions](https://youtu.be/hxNFeL2qY-k)
+- [Understand Linux File Permissions](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-understanding-linux-file-permissions)
+
+That was it for the topic of permissions and **chmod**. I'll be back with a new topic tomorrow.
