@@ -1,1 +1,69 @@
-IyMgRGF5LTE2IExpbnV4IEZpbGUgU3lzdGVtCgpXZSBsb29rZWQgYXQgTGludXggdXNlciBhZG1pbmlzdHJhdGlvbiB5ZXN0ZXJkYXksIGFsb25nIHdpdGggYSBmZXcgdXNlciBtYW5hZ2VtZW50LXJlbGF0ZWQgZnVuY3Rpb25zLiBUb2RheSwgd2UnbGwgdGFrZSBhIGxvb2sgYXQgdGhlIExpbnV4IGZpbGUgc3lzdGVtIGFzIHdlbGwgYXMgc29tZSBzdHJhaWdodGZvcndhcmQgdGVjaG5pcXVlcyBmb3IgdGVzdGluZyBMaW51eCBkcml2ZXMgYW5kIHBhcnRpdGlvbnMuCgojIyBMaW51eCBGaWxlIFN5c3RlbTog8J+nkeKAjfCfkrsKQSBmaWxlIHN5c3RlbSBpcyBhIG1hbm5lciB0aGF0IHZhcmlvdXMgZmlsZXMgYXJlIG9yZ2FuaXNlZC4gU2ltaWxhciB0byBhIGRhdGFiYXNlLCBpdC4gTGludXggaXMgYnVpbHQgd2l0aCBjb25maWd1cmF0aW9uIGZpbGVzIHdoaWNoIHlvdSBjYW4gY2hlY2sgdXNpbmcgYGxzIC9ldGNgLgoKCiFbU2NyZWVuc2hvdCBmcm9tIDIwMjItMTAtMDggMDctNDItNTMucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY2NTE5NTI1NTU3MS9VcExFUzFIc2QucG5nIGFsaWduPSJsZWZ0IikKClNldmVyYWwgTGludXggZmlsZSBzeXN0ZW0gY29tbWFuZHMsIGxpa2UgImNkLCIgIm1rZGlyLCIgInB3ZCwiICJjYXQsIiBldGMuLCBoYXZlIGFscmVhZHkgYmVlbiBkaXNjdXNzZWQgaW4gZWFybGllciBibG9ncy4gU28sIHdlJ2xsIGxvb2sgYXQgc29tZSBvdGhlciBleHRyZW1lbHkgdXNlZnVsIGNvbW1hbmRzIGFuZCBkaXJlY3Rvcmllcy4KCiMjIERpcmVjdG9yaWVzCi0gYC9ldGNgIDogSXQgaXMgdGhlIGRpcmVjdG9yeSB3aGVyZSBMaW51eCdzIGFsbCBjb25maWd1cmF0aW9uIGZpbGVzIGxpdmUuCi0gYC9iaW5gIDogSXQgaW5jbHVkZXMgY29tbWFuZHMgZm9yIExpbnV4IHRoYXQgYSB1c2VyIG9yIGEgc3lzdGVtIGFkbWluaXN0cmF0b3IgY2FuIHVzZS4gSXQgZXNzZW50aWFsbHkgY29uc2lzdHMgb2YgZXhlY3V0YWJsZSBhbmQgYmluYXJ5IGZpbGVzIHRoYXQgY2FuIGJlIHVzZWQgdG8gcnVuIExpbnV4IGNvbW1hbmRzLgoKIVtTY3JlZW5zaG90IGZyb20gMjAyMi0xMC0wOCAwOC0xMS0yNS5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjY1MTk2ODkzMTA1L3ZYMVNVSlJfay5wbmcgYWxpZ249ImxlZnQiKQoKLSBgL2RldmAgOiBJdCBjb25zaXN0cyBvZiBmaWxlcyB0aGF0IHJlcHJlc2VudCBkZXZpY2VzIHRoYXQgYXJlIGF0dGFjaGVkIHRvIHRoZSBsb2NhbCBzeXN0ZW0uIFRoZXNlIGZpbGVzIGFyZSBub3QgcmVndWxhciBmaWxlcyB0aGF0IGEgdXNlciBjYW4gcmVhZC4gVGhlc2UgZmlsZXMgYXJlIGNhbGxlZCAqKkRldmljZSBkcml2ZXJzKiouCgohW1NjcmVlbnNob3QgZnJvbSAyMDIyLTEwLTA4IDA4LTE2LTE4LnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NjUxOTcxODcyNjIvMHhwMU13d3lhLnBuZyBhbGlnbj0ibGVmdCIpCgotIGAvYm9vdGA6IEl0IGNvbnRhaW5zIG5lY2Vzc2FyeSBib290aW5nIGZpbGUgbmVlZGVkIGZvciBib290aW5nIHRoZSBzeXN0ZW0uCgohW1NjcmVlbnNob3QgZnJvbSAyMDIyLTEwLTA4IDA4LTUzLTE5LnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NjUxOTk0MDg4NDYvM2tpQ2JROEY1LnBuZyBhbGlnbj0ibGVmdCIpCgotIGAvaG9tZSBgOiBJdCBpcyBhIGhvbWUgZGlyZWN0b3J5IGZvciB1c2Vycy4KCiFbU2NyZWVuc2hvdCBmcm9tIDIwMjItMTAtMDggMjMtMDEtMjMucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY2NTI1MDg5NTM0OS9tVURMV3BJUHEucG5nIGFsaWduPSJsZWZ0IikKCi0gYC9saWIgYDogSXQgY29udGFpbnMgbGlicmFyeSBmaWxlcyBhbmQga2VybmVsIHJlbGF0ZWQgZmlsZXMgd2hpY2ggYXJlIG5lZWRlZCBpbiBzeXN0ZW0gYm9vdCBwcm9jZXNzLgoKCiFbU2NyZWVuc2hvdCBmcm9tIDIwMjItMTAtMDggMjMtMTUtMjAucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY2NTI1MTEzMDIzNS9CTFZBOWItLUQucG5nIGFsaWduPSJsZWZ0IikKCiMjIFN5c3RlbSBBZG1pbmlzdHJhdG9yIENvbW1hbmRzCgpIZXJlIGFyZSBmZXcgTGludXggY29tbWFuZHMgdGhhdCB5b3UgbWF5IGRhaWx5IHVzZSBhcyBzeXN0ZW0gYWRtaW5pc3RyYXRvci4KCi0gYGRmIGA6IEl0IHdpbGwgc2hvdyB5b3UgYXZhaWxhYmxlIGZyZWUgZGlzayBzcGFjZSBpbiB5b3VyIHN5c3RlbS4gWW91IGNhbiB1c2UgZmxhZ3MgbGlrZSBgLWtgKHJlcHJlc2VudCBpdCBpbiBraWxvYnl0ZXMpLCBgLWhgKGZvciBtb3JlIGh1bWFuIHJlYWRhYmxlIGZvcm0pLgoKCiFbU2NyZWVuc2hvdCBmcm9tIDIwMjItMTAtMDggMjMtMDItNDUucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY2NTI1MDk5MDc2NC95UnUxbnVMWngucG5nIGFsaWduPSJsZWZ0IikKCi0gYG1vdW50YDogSXQgd2lsbCBtb3VudCBsb2NhbCBhbmQgcmVtb3RlIGZpbGUgc3lzdGVtLiBJdCBtYWtlcyB0aGF0IGZpbGUgc3lzdGVtIGFjY2Vzc2libGUgYW5kIGF0dGFjaCBpdCB0byB0aGUgY3VycmVudCBmaWxlIHN5c3RlbS4gZm9yIG1vcmUgaW5mbyBjaGVja291dCB0aGlzIG9mZmljaWFsIFtkb2N1bWVudGF0aW9uXShodHRwczovL21hbjcub3JnL2xpbnV4L21hbi1wYWdlcy9tYW44L21vdW50LjguaHRtbCkuCgoKIVtTY3JlZW5zaG90IGZyb20gMjAyMi0xMC0wOCAyMy0wOS01MS5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjY1MjUxMDA1NTgyLzJ6aG5LZkdUTC5wbmcgYWxpZ249ImxlZnQiKQoKLSBgdW5tb3VudGA6IEl0IGlzIHF1aXRlIG9wcG9zaXRlIG9mIGBtb3VudGAgY29tbWFuZC4gSXQgd2lsbCBoaWRlIHRoYXQgbW91bnRlZCBmaWxlIHN5c3RlbSBmcm9tIHRoZSBub3JtYWwgdXNlci4KCi0gYGR1IGA6IEl0IHdpbGwgZ2VuZXJhdGUgYSBkZXRhaWxlZCB2aWV3IG9mIGBkZmAgY29tbWFuZC4gSXQgd2lsbCB0YWtlIGFsbCB0aGUgZmlsZXMgYXZhaWxhYmxlIGluIHlvdXIgc3lzdGVtIGFuZCBwcmludHMgd2hpY2ggZmlsZSBpcyB0YWtpbmcgaG93IG11Y2ggZGlzayBzcGFjZS4gWWVzLCB5b3UgY2FuIHVzZSBmbGFncyBsaWtlIGAta2AgYW5kIGAtaGAuCiAKCiFbU2NyZWVuc2hvdCBmcm9tIDIwMjItMTAtMDggMjMtMjAtMjUucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY2NTI1MTQzNTg5MC83Z1pWb1UtakIucG5nIGFsaWduPSJsZWZ0IikKICAKIyMgUmVzb3VyY2VzICYgRW5kaW5nIG5vdGUg8J+TmvCfkYsKCi0gW0xpbnV4IEZpbGUgU3lzdGVtIGFuZCBQYXJ0aXRpb25zXShodHRwczovL3lvdXR1LmJlL1BiTVQ1M2phVWFVKQotIFtMaW51eCBGdWxsIHR1dG9yYWlsXShodHRwczovL3lvdXR1LmJlL2l3b2xQZjZrTi1rKSAgCi0gW0xpbnV4IEZpbGUgU3lzdGVtIENvbW1hbmRzXShodHRwczovL2RvYy5udXhlby5jb20vbnhkb2MvZmlsZXN5c3RlbS1jb21tYW5kcy8pCgpUaGlzIGNvbmNsdWRlcyBvdXIgZGlzY3Vzc2lvbiBvZiB0aGUgTGludXggZmlsZSBzeXN0ZW0gYW5kIGFkbWluaXN0cmF0b3IgY29tbWFuZHMuIFdpdGhvdXQgYSBkb3VidCwgdGhlcmUgaXMgYSBsb3QgbW9yZSAobGlrZSBmaWxlIHBlcm1pc3Npb25zLCBjaG1vZCwgIGV0YywpIGluIHRoaXMgdG9waWMsIGJ1dCB3ZSB3aWxsIGNvdmVyIHRoYXQgaW4gYSBmdXR1cmUgYmxvZ3MuIAoKCgoKCgo=
+# Day-16 Linux File System
+
+We looked at Linux user administration yesterday, along with a few user management-related functions. Today, we'll take a look at the Linux file system as well as some straightforward techniques for testing Linux drives and partitions.
+
+## Linux File System: 🧑‍💻
+A file system is a manner that various files are organised. Similar to a database, it. Linux is built with configuration files which you can check using `ls /etc`.
+
+
+![Screenshot from 2022-10-08 07-42-53.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665195255571/UpLES1Hsd.png align="left")
+
+Several Linux file system commands, like "cd," "mkdir," "pwd," "cat," etc., have already been discussed in earlier blogs. So, we'll look at some other extremely useful commands and directories.
+
+## Directories
+- `/etc` : It is the directory where Linux's all configuration files live.
+- `/bin` : It includes commands for Linux that a user or a system administrator can use. It essentially consists of executable and binary files that can be used to run Linux commands.
+
+![Screenshot from 2022-10-08 08-11-25.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665196893105/vX1SUJR_k.png align="left")
+
+- `/dev` : It consists of files that represent devices that are attached to the local system. These files are not regular files that a user can read. These files are called **Device drivers**.
+
+![Screenshot from 2022-10-08 08-16-18.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665197187262/0xp1Mwwya.png align="left")
+
+- `/boot`: It contains necessary booting file needed for booting the system.
+
+![Screenshot from 2022-10-08 08-53-19.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665199408846/3kiCbQ8F5.png align="left")
+
+- `/home `: It is a home directory for users.
+
+![Screenshot from 2022-10-08 23-01-23.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665250895349/mUDLWpIPq.png align="left")
+
+- `/lib `: It contains library files and kernel related files which are needed in system boot process.
+
+
+![Screenshot from 2022-10-08 23-15-20.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665251130235/BLVA9b--D.png align="left")
+
+## System Administrator Commands
+
+Here are few Linux commands that you may daily use as system administrator.
+
+- `df `: It will show you available free disk space in your system. You can use flags like `-k`(represent it in kilobytes), `-h`(for more human readable form).
+
+
+![Screenshot from 2022-10-08 23-02-45.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665250990764/yRu1nuLZx.png align="left")
+
+- `mount`: It will mount local and remote file system. It makes that file system accessible and attach it to the current file system. for more info checkout this official [documentation](https://man7.org/linux/man-pages/man8/mount.8.html).
+
+
+![Screenshot from 2022-10-08 23-09-51.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665251005582/2zhnKfGTL.png align="left")
+
+- `unmount`: It is quite opposite of `mount` command. It will hide that mounted file system from the normal user.
+
+- `du `: It will generate a detailed view of `df` command. It will take all the files available in your system and prints which file is taking how much disk space. Yes, you can use flags like `-k` and `-h`.
+ 
+
+![Screenshot from 2022-10-08 23-20-25.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665251435890/7gZVoU-jB.png align="left")
+  
+## Resources & Ending note 📚👋
+
+- [Linux File System and Partitions](https://youtu.be/PbMT53jaUaU)
+- [Linux Full tutorail](https://youtu.be/iwolPf6kN-k)  
+- [Linux File System Commands](https://doc.nuxeo.com/nxdoc/filesystem-commands/)
+
+This concludes our discussion of the Linux file system and administrator commands. Without a doubt, there is a lot more (like file permissions, chmod,  etc,) in this topic, but we will cover that in a future blogs. 
+
+
+
+
+
+
