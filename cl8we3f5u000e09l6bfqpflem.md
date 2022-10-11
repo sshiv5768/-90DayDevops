@@ -1,1 +1,60 @@
-IyMgRGF5LTE0IExpbnV4IFN0YW5kYXJkIFN0cmVhbXMKCk9uIHRoZSBsYXN0IGRheSwgd2Ugc2F3IG1vcmUgYmFzaWMgTGludXggY29tbWFuZHMgd2hpY2ggYXJlIHVzZWZ1bCBpbiBEZXZPcHMuIE5vdyB0b2RheSB3ZSB3aWxsIG1vdmUgZGVlcGVyIGludG8gTGludXggYW5kIHdpbGwgbGVhcm4gYWJvdXQgU3RhbmRhcmQgU3RyZWFtcy4KwqAKIyMgTGludXggU3RhbmRhcmQgU3RyZWFtcyDwn5Go4oCN8J+SuwoKU3RhbmRhcmQgc3RyZWFtcyBhcmUgaW5wdXQgYW5kIG91dHB1dCAoSS9PKSBjaGFubmVscywgb3IgeW91IGNvdWxkIHNheSBhIGJyaWRnZSBiZXR3ZWVuIGEgcHJvZ3JhbW1lIGFuZCBpdHMgZW52aXJvbm1lbnQsIGluIExpbnV4IGFuZCBvdGhlciBnZW5lcmljIGNvbXB1dGVyIHByb2dyYW1taW5nIGxhbmd1YWdlcy4KClRoZXkgYXJlIGFsc28ga25vd24gYXMgaW5wdXQvb3V0cHV0KEkvTykgc3RyZWFtcy4gVGhlcmUgYXJlIDMgaW5wdXQgYW5kIG91dHB1dCBzdHJlYW1zIGluIExpbnV4IDogKipTdGFuZGFyZCBJbnB1dChzdGRpbikqKiwgKipTdGFuZGFyZCBPdXRwdXQoc3Rkb3V0KSoqIGFuZCAqKlN0YW5kYXJkIEVycm9yKHN0ZGVycikqKi4KCkFueSBjb21tYW5kIHlvdSBwZXJmb3JtIGluIExpbnV4IGhhdmUgdG8gZGVhbCB3aXRoIHRoZXNlIHN0cmVhbXMuIFRoZXNlIHN0cmVhbSBhcmUgYWxzbyBjbGFzc2lmaWVkIGJ5IHNwZWNpZmljIG51bWJlcnMgY2FsbGVkIGFzIGZpbGUgZGVzY3JpcHRvcnMuIAoKLSBTdGFuZGFyZCBJbnB1dChzdGRpbikgOiAwCi0gU3RhbmRhcmQgT3V0cHV0KHN0ZG91dCk6IDEKLSBTdGFuZGFyZCBFcnJvcihzdGRlcnIpOiAyCgojIyMgU3RhbmRhcmQgSW5wdXQoc3RkaW4pOgoKU3RhbmRhcmQgaW5wdXQgY2FuIGJlIGluIGFueSBmb3JtIGluIExpbnV4LCBpdCBjYW4gYmUgYSBmaWxlLCBhIGNvbW1hbmQgZnJvbSB0aGUga2V5Ym9hcmQuIE5vcm1hbGx5IGl0IGlzIHJlY29nbmlzZWQgYnkgYDxgIHN5bWJvbC4gYGBjYXRgYCBpcyBiZXN0IGV4YW1wbGUgb2YgKipzdGRpbioqLgoKCiFbU2NyZWVuc2hvdCBmcm9tIDIwMjItMTAtMDYgMDYtMjItNDYucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY2NTAxNzU5MjI0MS9OdEx0NFJMd3AucG5nIGFsaWduPSJsZWZ0IikKClNlZSwgSXQgaXMgdGFraW5nICoqc3RkaW4qKiBhbmQgZ2VuZXJhdGluZyAqKnN0ZG91dCoqLiBUaGlzIGlzIGhvdyB0aGVzZSBzdHJlYW1zIHdvcmsuCgojIyMgU3RhbmRhcmQgT3V0cHV0KHN0ZG91dCk6CgoqKlN0ZG91dCoqIGNhbiB0YWtlIGFueSBmb3JtLCBzdWNoIGFzIGEgdGVybWluYWwgd2luZG93LCBhIGZpbGUsIG9yIGEgcmVzcG9uc2UgdG8gb3RoZXIgY29tbWFuZHMgdXNpbmcgKipwaXBlKiouIEl0IGlzIHJlcHJlc2VudGVkIGJ5IGBgPmBgIHN5bWJvbC4KCgohW1NjcmVlbnNob3QgZnJvbSAyMDIyLTEwLTA2IDA2LTM5LTE3LnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NjUwMTg1NzEzNDYvT2tLMVUwMW9ILnBuZyBhbGlnbj0ibGVmdCIpCgpJbiBhYm92ZSBwcm9jZXNzIHdlIGdldCB0aGUgb3V0cHV0IG9mIGBsc2AgY29tbWFuZCBmb3IgKipEZXNrdG9wKiogZm9sZGVyIGFuZCByZWRpcmVjdHMgaXQgdG8gdGhlIGZpbGUgYHAzLnR4dGAuCgpDaGVjayBiZWxvdyBpbWFnZSBhbHNvIHdoZXJlIHdlIHBhc3NlZCBvdXRwdXQgb2YgYGBsc2BgIHRvIGBgY2F0ID4gcDQudHh0IGBgIHVzaW5nIGBgfGBgIHN5bWJvbC4KCiFbU2NyZWVuc2hvdCBmcm9tIDIwMjItMTAtMDYgMDYtNDQtMTAucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY2NTAxODk1NTI3Ni9OckFhbTZyQWQucG5nIGFsaWduPSJsZWZ0IikKCiMjIyBTdGFuZGFyZCBFcnJvcihzdGRlcnIpOgoKQWxsIGVycm9yIG1lc3NhZ2VzIGZyb20gYSBwcm9jZXNzIGFyZSBzZW50IHRvICoqc3RhbmRhcmQgZXJyb3Ioc3RkZXJyKSoqLiBUaGlzIGlzIHRoZSBkaXNwbGF5IHNjcmVlbiBieSBkZWZhdWx0LCBob3dldmVyIGl0IGNhbiBiZSByZWRpcmVjdGVkIGp1c3QgbGlrZSBzdGFuZGFyZCBvdXQuIEhvd2V2ZXIsIHVzaW5nICI+IiB0byBkaXJlY3QgdGhlIGVycm9yIG91dHB1dCB0byBhIGNlcnRhaW4gZmlsZSB3b24ndCB3b3JrLiBXYW50IHRvIHNlZT8gVHJ5IGl0IG91dC4KCiFbU2NyZWVuc2hvdCBmcm9tIDIwMjItMTAtMDYgMDYtNTYtMTAucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY2NTAxOTYzNDAxMC9EeXNWcW51QU8ucG5nIGFsaWduPSJsZWZ0IikKCkZvciByZWRpcmVjdGluZyBvdXRwdXQgb2YgKipzdGRlcnIqKiB3ZSBoYXZlIHRvIHVzZSBpdHMgZmlsZSBkZXNjcmlwdG9yLiBOb3cgdHJ5IHdpdGggYGAyPmBgLiBJdCB3b24ndCBiZSBibGFuayBhZ2Fpbi4gCgoKIVtTY3JlZW5zaG90IGZyb20gMjAyMi0xMC0wNiAwNi01Ni0xMC5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjY1MDE5ODU1Mzg5L1Z6VXlBUC0xay5wbmcgYWxpZ249ImxlZnQiKQoKU2VlLCBJIHRvbGQgeW91IQoKIyMgUmVzb3VyY2VzIPCfk5oKLSBbTGludXggU3RhbmRhcmQgU3RyZWFtIGFuZCBGaWxlIGlucHV0XShodHRwczovL3lvdXR1LmJlL3hWYUNfRzZhZUgwKQotIFtMaW51eCBGdW5kYW1lbnRhbHMgXShodHRwczovL3d3dy5wdXRvcml1cy5uZXQvbGludXgtaW8tZmlsZS1kZXNjcmlwdG9ycy1hbmQtcmVkaXJlY3Rpb24uaHRtbCkKCiMjIEVuZGluZyBDcmVkaXRzIPCfkYsKT2theSwgc28gdG9kYXkgd2UgbG9va2VkIG92ZXIgdG8gdGhlIExpbnV4IHN0YW5kYXJkIHN0cmVhbXMgYW5kIHRoZWlyIGV4YW1wbGVzLiBTZWUgeW91IG5leHQgd2VlayB3aXRoIGEgbmV3IExpbnV4IHRvcGljLgoKCgo=
+# Day-14 Linux Standard Streams
+
+On the last day, we saw more basic Linux commands which are useful in DevOps. Now today we will move deeper into Linux and will learn about Standard Streams.
+ 
+## Linux Standard Streams 👨‍💻
+
+Standard streams are input and output (I/O) channels, or you could say a bridge between a programme and its environment, in Linux and other generic computer programming languages.
+
+They are also known as input/output(I/O) streams. There are 3 input and output streams in Linux : **Standard Input(stdin)**, **Standard Output(stdout)** and **Standard Error(stderr)**.
+
+Any command you perform in Linux have to deal with these streams. These stream are also classified by specific numbers called as file descriptors. 
+
+- Standard Input(stdin) : 0
+- Standard Output(stdout): 1
+- Standard Error(stderr): 2
+
+### Standard Input(stdin):
+
+Standard input can be in any form in Linux, it can be a file, a command from the keyboard. Normally it is recognised by `<` symbol. ``cat`` is best example of **stdin**.
+
+
+![Screenshot from 2022-10-06 06-22-46.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665017592241/NtLt4RLwp.png align="left")
+
+See, It is taking **stdin** and generating **stdout**. This is how these streams work.
+
+### Standard Output(stdout):
+
+**Stdout** can take any form, such as a terminal window, a file, or a response to other commands using **pipe**. It is represented by ``>`` symbol.
+
+
+![Screenshot from 2022-10-06 06-39-17.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665018571346/OkK1U01oH.png align="left")
+
+In above process we get the output of `ls` command for **Desktop** folder and redirects it to the file `p3.txt`.
+
+Check below image also where we passed output of ``ls`` to ``cat > p4.txt `` using ``|`` symbol.
+
+![Screenshot from 2022-10-06 06-44-10.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665018955276/NrAam6rAd.png align="left")
+
+### Standard Error(stderr):
+
+All error messages from a process are sent to **standard error(stderr)**. This is the display screen by default, however it can be redirected just like standard out. However, using ">" to direct the error output to a certain file won't work. Want to see? Try it out.
+
+![Screenshot from 2022-10-06 06-56-10.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665019634010/DysVqnuAO.png align="left")
+
+For redirecting output of **stderr** we have to use its file descriptor. Now try with ``2>``. It won't be blank again. 
+
+
+![Screenshot from 2022-10-06 06-56-10.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665019855389/VzUyAP-1k.png align="left")
+
+See, I told you!
+
+## Resources 📚
+- [Linux Standard Stream and File input](https://youtu.be/xVaC_G6aeH0)
+- [Linux Fundamentals ](https://www.putorius.net/linux-io-file-descriptors-and-redirection.html)
+
+## Ending Credits 👋
+Okay, so today we looked over to the Linux standard streams and their examples. See you next week with a new Linux topic.
+
+
+
