@@ -5,7 +5,8 @@ In the previous blog, we talked about subscriptions and resource groups. There i
 Management groups help you manage your multiple **subscriptions** with a set of policies and conditions.
 To know more about this topic checkout [this](https://learn.microsoft.com/en-us/azure/governance/management-groups/overview)
 
-### Azure services
+### Azure Services
+![Memes](https://media.giphy.com/media/3o6MbsWjZwURvye0ko/giphy.gif)
 
 As discussed in [Day-27](https://sshivlal.hashnode.dev/day-27-different-cloud-models) blog, the cloud has three basic models: **IAAS**, **PAAS** and **SAAS**. Azure provides more than 150 services, and these services are divided on the basis of these cloud models.
 
@@ -23,7 +24,7 @@ You need a better solution. Here comes the concept of **Virtualization**. You ca
 
 Virtualization provides you access of the required computer hardware with better utilization. More details can be found [here](https://www.ibm.com/cloud/learn/virtualization-a-complete-guide).
 
-### Azure Compute Services
+### Azure Compute Services⚙
 
 #### Azure Virtual Machines
 - Falls in **IaaS**(Infrastructure as a service) category
@@ -49,7 +50,7 @@ Virtualization provides you access of the required computer hardware with better
 
 Azure Container Instances) and AKS (Azure Kubernetes Services) will be covered deeply when we reach the container and cluster parts of this #90DaysOfDevOps series. 
 
-### Resources
+### Resources📚
 - [Azure Virtual Machines](https://learn.microsoft.com/en-us/azure/virtual-machines/overview)
 - [Azure Compute Services](https://youtu.be/inaXkN2UrFE)
 
